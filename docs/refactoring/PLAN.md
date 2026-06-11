@@ -100,7 +100,7 @@
 | Step 2 | Car 불변 객체 생성 | [x] |
 | Step 3 | ValidationResult / CompatibilityValidator 생성 | [x] |
 | Step 4 | ConsoleUI 분리 | [x] |
-| Step 5 | AssemblyProcess 생성, Main.java 생성, Assemble.java 삭제 | [ ] |
+| Step 5 | AssemblyProcess 생성, Main.java 생성, Assemble.java 삭제 | [x] |
 | Step 6 | CompatibilityValidatorTest 작성 | [ ] |
 
 ---
