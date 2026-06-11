@@ -1,9 +1,9 @@
 package org.example.domain;
 
 public enum Brake {
-    MANDO("MANDO"),
-    CONTINENTAL("CONTINENTAL"),
-    BOSCH("BOSCH");
+    MANDO("Mando"),
+    CONTINENTAL("Continental"),
+    BOSCH("Bosch");
 
     public final String label;
 

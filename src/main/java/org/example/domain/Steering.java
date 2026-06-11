@@ -1,8 +1,8 @@
 package org.example.domain;
 
 public enum Steering {
-    BOSCH("BOSCH"),
-    MOBIS("MOBIS");
+    BOSCH("Bosch"),
+    MOBIS("Mobis");
 
     public final String label;
 
