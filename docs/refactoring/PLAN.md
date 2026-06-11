@@ -97,7 +97,7 @@
 | 단계 | 작업 | 완료 |
 |---|---|---|
 | Step 1 | CarType / Engine / Brake / Steering enum 생성 | [x] |
-| Step 2 | Car 불변 객체 생성 | [ ] |
+| Step 2 | Car 불변 객체 생성 | [x] |
 | Step 3 | ValidationResult / CompatibilityValidator 생성 | [ ] |
 | Step 4 | ConsoleUI 분리 | [ ] |
 | Step 5 | AssemblyProcess 생성, Main.java 생성, Assemble.java 삭제 | [ ] |
