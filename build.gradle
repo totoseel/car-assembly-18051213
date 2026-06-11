@@ -1,9 +1,18 @@
 plugins {
     id 'java'
+    id 'application'
+}
+
+application {
+    mainClass = 'org.example.Assemble'
 }
 
 group = 'org.example'
 version = '1.0-SNAPSHOT'
+
+tasks.withType(JavaExec).configureEach {
+    jvmArgs '-Dfile.encoding=UTF-8', '-Dstdout.encoding=UTF-8'
+}
 
 repositories {
     mavenCentral()
